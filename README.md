@@ -1,7 +1,7 @@
 <html>
     <meta charset="utf-8">
   <body style="background-color: #fbdff0;">
-    <p style ="text-align:right"><i>Name:Tejaswini</i><br>
+  <p style ="text-align:right"><i>Name:Tejaswini</i><br>
     <p style ="text-align:right">Phone Number:9686705497</p>
     <p style ="text-align:right"><u>Email id:tejaswinisharma1991@gmail.com</u></p>
     <hr>
@@ -10,6 +10,7 @@
       in managing a development project using Scrum,Agile.Skilled in conceptualization design,development and deploying software
       containing logical and mathematical solution to business problem.
     </p>
+      </hr>
     <hr>
     <h5>Skill Highlited:</h5>
     <ul>
