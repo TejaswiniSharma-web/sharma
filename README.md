@@ -20,17 +20,15 @@
       <li>CrossBrowser Operatibilty</li>
       <li>Project Mangemnt</li>
       <li>User Requirement gathering</li>
-
     </ul>
   </hr>
-      <hr>
+     <hr>
       <ul>
         <li>Education:</li>
         <p>Diploma graduate in cs in nov 2016 passed out</p>
       </ul>
     </hr>
       <hr>
-
       <h5>Work Experience</h5>
       <p>Worked as a Hr Recruiter for 3 yr at symmetric Enterprises from nov 2016 till Jan 2019</p>
     </hr>
@@ -45,5 +43,6 @@
         <li>Manual Testing</li>
         <li>Automation Testing</li>
       </ul>
+      </hr>
   </body>
 </html>
