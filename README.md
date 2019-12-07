@@ -1,4 +1,3 @@
-
 <html>
   <head><center> Tejaswini Sharma Resume</center> </head>
     <meta charset="utf-8">
